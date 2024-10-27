@@ -1,0 +1,11 @@
+{
+  "name": "citas-inspiradoras",
+  "version": "1.0.0",
+  "description": "Esta es un proyecto de página web de citas inspiradoras, en donde se utilizará html, css y javascript y tal vez otras cosas más :D",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Karina Castillo",
+  "license": "ISC"
+}
